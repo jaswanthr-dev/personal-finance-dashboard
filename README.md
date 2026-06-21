@@ -32,4 +32,4 @@ This project is currently structured for local development.
 * **Phase 2:** Integrate cloud-based data storage (Google Sheets API).
 * **Phase 3:** Implement secure user authentication and multi-user support.
 
-![Dashboard Preview](personal-finance-dashboard.png)
+![Dashboard Preview](dashboard.png)
